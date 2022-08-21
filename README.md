@@ -17,10 +17,3 @@ Root 6 seçildi.
                 0            
 
 
-echo "# Binary_searchtree_Patika" >> README.md
-git init
-git add README.md
-git commit -m "binary_searchtree eklendi"
-git branch -M main
-git remote add origin https://github.com/OsmnCnG/Binary_searchtree_Patika.git
-git push -u origin main
